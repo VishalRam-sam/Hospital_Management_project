@@ -1,3 +1,5 @@
+# Hospital_Management_SQL_Project
+
 This is a SQL project I built in MySQL to practice answering real business questions from a hospital database. The database has 14 tables (patients, doctors, nurses, appointments, beds, rooms, surgeries, staff shifts and so on), and I wrote 15 queries to solve problems a hospital management team might actually face.
 
 Files -
