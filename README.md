@@ -1,14 +1,17 @@
 This is a SQL project I built in MySQL to practice answering real business questions from a hospital database. The database has 14 tables (patients, doctors, nurses, appointments, beds, rooms, surgeries, staff shifts and so on), and I wrote 15 queries to solve problems a hospital management team might actually face.
 
 Files -
+
 Hospital_Management_System_file.sql – creates the database, tables and sample data
 SQL_project.sql – all 15 queries with the question written above each one
 
 Tables -
+
 Department, Ward, Room, Bed, Doctor, Nurse, Helpers, 
 StaffShift, Patients, Appointment, MedicalRecord, SurgeryRecord, BedRecords, RoomRecords
 
 Questions I solved
+
 1. Patients with their appointment doctor and the reason for the visit
 2. Nurses who assisted in bed admissions, along with the patient name
 3. Rooms used for surgeries, with the surgeon and the type of surgery
@@ -39,6 +42,7 @@ What I used in the queries -
 - Run SQL_project.sql to see the results of the queries.
   
 What I learned
+
 The hardest part was Q12, because some shifts end after midnight, so I had to handle the case where the end time is smaller than the start time. Q6 and Q8 also taught me a lot about using subqueries properly.
 
 About me
