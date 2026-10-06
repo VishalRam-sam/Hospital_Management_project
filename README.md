@@ -42,6 +42,7 @@ What I learned
 The hardest part was Q12, because some shifts end after midnight, so I had to handle the case where the end time is smaller than the start time. Q6 and Q8 also taught me a lot about using subqueries properly.
 
 About me
+
 I'm Vishal Ram, a B.Pharm graduate from Thane looking for a data analyst role in the healthcare domain. I work with Advanced Excel, Power BI, SQL and Python.
 
 LinkedIn: www.linkedin.com/in/vishal-ram-4kk145
